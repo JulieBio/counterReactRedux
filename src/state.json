@@ -1,0 +1,18 @@
+
+{
+    "addAction": {
+        "type": "add"
+    },
+    "removeAction": {
+        "type": "remove"
+    },
+    "addActionTen": {
+        "type": "addten"
+    },
+    "removeActionTen": {
+        "type": "removeten"
+    },
+    "resetAction": {
+        "type": "reset"
+    }
+}
